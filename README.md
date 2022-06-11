@@ -9,8 +9,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/huynh-van-gioi-em-11981022a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huynh-van-gioi-em-11981022a" height="30" width="40" /></a>
-<a href="https://fb.com/huynhvangioiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huynhvangioiem" height="30" width="40" /></a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/huynh-van-gioi-em-11981022a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/huynhvangioiem">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
