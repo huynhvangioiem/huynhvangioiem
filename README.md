@@ -55,7 +55,6 @@
   <p>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   </p>
 
   <h3>Tools & Technologies</h3>
@@ -64,45 +63,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   </p>
-</div>
-
-<!-- Skill Progress -->
-<div align="center">
-  <h2>📈 Skill Progress</h2>
-  <table>
-    <tr>
-      <td>HTML/CSS</td>
-      <td>
-        <img src="https://progress-bar.dev/95/?title=HTML/CSS&width=400&color=babaca&suffix=%25" alt="HTML/CSS Progress"/>
-      </td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>
-        <img src="https://progress-bar.dev/90/?title=JavaScript&width=400&color=babaca&suffix=%25" alt="JavaScript Progress"/>
-      </td>
-    </tr>
-    <tr>
-      <td>React</td>
-      <td>
-        <img src="https://progress-bar.dev/85/?title=React&width=400&color=babaca&suffix=%25" alt="React Progress"/>
-      </td>
-    </tr>
-    <tr>
-      <td>PHP</td>
-      <td>
-        <img src="https://progress-bar.dev/80/?title=PHP&width=400&color=babaca&suffix=%25" alt="PHP Progress"/>
-      </td>
-    </tr>
-    <tr>
-      <td>MySQL</td>
-      <td>
-        <img src="https://progress-bar.dev/75/?title=MySQL&width=400&color=babaca&suffix=%25" alt="MySQL Progress"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- GitHub Activity Graph -->
