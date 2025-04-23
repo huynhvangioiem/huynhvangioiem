@@ -1,113 +1,30 @@
-<!-- Profile Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Huynh+Van+Gioi+Em+%F0%9F%91%8B;I'm+a+Web+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89" alt="Title"></img>
-</div>
+<h1 align="center">Hi 👋, I'm Huynh Van Gioi Em</h1>
+<h3 align="center">I am a Frontend Developer passionate about creating smooth, intuitive, and optimized web experiences. With a growth mindset and a strong eagerness to learn, I continuously improve my skills, and refine myself every day.</h3>
 
-<!-- Profile Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20React%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhvangioiem&label=Profile%20views&color=0e75b6&style=flat" alt="huynhvangioiem" /> </p>
 
-<!-- Profile Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huynhvangioiem&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhvangioiem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="200"/>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huynhvangioiem" alt="huynhvangioiem" /></a> </p>
 
-<!-- Profile Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhvangioiem&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="700"/>
-</div>
+- 🔭 I’m currently working at [NFQ ASIA](https://www.nfq.com/)
 
-<!-- About Me Section -->
-<div align="center">
-  <h2>👨‍💻 About Me</h2>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  
-  <p>
-    <strong>🎯 I'm a passionate Web Developer focused on creating beautiful and functional web applications</strong>
-  </p>
-  
-  <p>
-    <strong>🌱 Currently learning:</strong> TypeScript, Next.js, and advanced React patterns
-  </p>
-  
-  <p>
-    <strong>💡 Fun fact:</strong> I love turning complex problems into simple, beautiful solutions
-  </p>
-</div>
+- 🌱 I’m currently learning **NextJS**
 
-<!-- Skills Section -->
-<div align="center">
-  <h2>🚀 Skills</h2>
-  
-  <h3>Frontend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </p>
+- 💬 Ask me about **React**
 
-  <h3>Backend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </p>
+- 📫 How to reach me **huynhvangioiem@gmail.com**
 
-  <h3>Tools & Technologies</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </p>
-</div>
+- ⚡ Fun fact **I love turning complex problems into simple, beautiful solutions**
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <h2>📊 GitHub Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huynhvangioiem&theme=radical&hide_border=true" width="100%"/>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/huynh-van-gioi-em-11981022a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huynh-van-gioi-em-11981022a" height="30" width="40" /></a>
+</p>
 
-<!-- Contact Section -->
-<div align="center">
-  <h2>📫 Connect With Me</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/huynh-van-gioi-em-11981022a/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.facebook.com/huynhvangioiem">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    <a href="mailto:huynhvangioiem@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/huynhvangioiem">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=huynhvangioiem&style=for-the-badge&color=FF69B4" alt="Profile Views"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhvangioiem&show_icons=true&locale=en&layout=compact" alt="huynhvangioiem" /></p>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer&animation=fadeIn" width="100%"/>
-  
-  <p>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-    <em>Let's connect and create something amazing together!</em>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  </p>
-  
-  <p>
-    <strong>Made with ❤️ by Huynh Van Gioi Em</strong>
-  </p>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huynhvangioiem&show_icons=true&locale=en" alt="huynhvangioiem" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huynhvangioiem&" alt="huynhvangioiem" /></p>
